@@ -10,8 +10,8 @@ const LoginForm = () => {
   const navigate = useNavigate(); // Initialize useNavigate hook
 
   const handleSubmit = async (e) => {
+
     e.preventDefault();
-  
     try {
       // Send login request to the server
       const response = await fetch("http://localhost:5000/login", {

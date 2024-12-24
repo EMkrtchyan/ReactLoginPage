@@ -9,3 +9,7 @@
 [2024-12-24T17:41:57.596Z] User logged in: Eric , Email: mk@mail.com
 [2024-12-24T17:50:56.077Z] New user registered: Eric, Email: Erik@mail.com
 [2024-12-24T17:51:06.989Z] User logged in: Eric, Email: Erik@mail.com
+[2024-12-24T17:55:03.460Z] User logged in: Eric, Email: Erik@mail.com
+[2024-12-24T18:03:18.752Z] User logged in: Eric, Email: Erik@mail.com
+[2024-12-24T18:04:17.395Z] User tried to log in but passwords do not match: Erik@mail.com
+[2024-12-24T18:04:22.422Z] User logged in: Eric, Email: Erik@mail.com
