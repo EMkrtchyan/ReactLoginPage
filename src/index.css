@@ -1,0 +1,50 @@
+/* Reset some default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif; /* Choose a default font for your app */
+  background-color: #1e1e1e; /* Dark background for a modern look */
+  color: #fff; /* Default text color */
+  line-height: 1.6; /* Improve readability */
+}
+
+a {
+  text-decoration: none; /* Remove underline from links */
+  color: #007bff; /* Default link color */
+}
+
+a:hover {
+  color: #0056b3; /* Darker shade on hover */
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+button {
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:focus {
+  outline: none;
+}
+
+/* Center all content on the page */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

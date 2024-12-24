@@ -1,0 +1,11 @@
+[2024-12-24T17:06:53.202Z] New user registered: d, Email: d@mail.com
+[2024-12-24T17:13:30.693Z] New user registered: Eric , Email: mk@mail.com
+[2024-12-24T17:26:00.328Z] User tried to log in but email not found: a@mail.com
+[2024-12-24T17:26:12.463Z] User tried to log in but passwords do not match: mk@mail.com
+[2024-12-24T17:26:18.190Z] User tried to log in but passwords do not match: mk@mail.com
+[2024-12-24T17:26:26.010Z] User tried to log in but passwords do not match: mk@mail.com
+[2024-12-24T17:26:28.650Z] User logged in: Eric , Email: mk@mail.com
+[2024-12-24T17:41:53.250Z] User tried to log in but passwords do not match: mk@mail.com
+[2024-12-24T17:41:57.596Z] User logged in: Eric , Email: mk@mail.com
+[2024-12-24T17:50:56.077Z] New user registered: Eric, Email: Erik@mail.com
+[2024-12-24T17:51:06.989Z] User logged in: Eric, Email: Erik@mail.com
